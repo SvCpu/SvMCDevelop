@@ -1,3 +1,7 @@
+# 
+#If players in adventure mode should have additional interactions restricted.
+#Includes: filter slots, scroll values, Redstone Links, Deployers, Sequenced Gearshifts, Blaze Burners
+limitAdventureMode = true
 
 # 
 #The Backbone of Create
